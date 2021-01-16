@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.752f6d1c.chunk.css",
-    "main.js": "/static/js/main.55699c3d.chunk.js",
-    "main.js.map": "/static/js/main.55699c3d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.43d474e8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.43d474e8.js.map",
-    "static/js/2.37b20d8b.chunk.js": "/static/js/2.37b20d8b.chunk.js",
-    "static/js/2.37b20d8b.chunk.js.map": "/static/js/2.37b20d8b.chunk.js.map",
-    "static/js/3.42216d7c.chunk.js": "/static/js/3.42216d7c.chunk.js",
-    "static/js/3.42216d7c.chunk.js.map": "/static/js/3.42216d7c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.752f6d1c.chunk.css.map": "/static/css/main.752f6d1c.chunk.css.map",
-    "static/js/2.37b20d8b.chunk.js.LICENSE.txt": "/static/js/2.37b20d8b.chunk.js.LICENSE.txt"
+    "main.css": "https://jan997.github.io/portafolio/static/css/main.752f6d1c.chunk.css",
+    "main.js": "https://jan997.github.io/portafolio/static/js/main.55699c3d.chunk.js",
+    "main.js.map": "https://jan997.github.io/portafolio/static/js/main.55699c3d.chunk.js.map",
+    "runtime-main.js": "https://jan997.github.io/portafolio/static/js/runtime-main.05fb917f.js",
+    "runtime-main.js.map": "https://jan997.github.io/portafolio/static/js/runtime-main.05fb917f.js.map",
+    "static/js/2.37b20d8b.chunk.js": "https://jan997.github.io/portafolio/static/js/2.37b20d8b.chunk.js",
+    "static/js/2.37b20d8b.chunk.js.map": "https://jan997.github.io/portafolio/static/js/2.37b20d8b.chunk.js.map",
+    "static/js/3.42216d7c.chunk.js": "https://jan997.github.io/portafolio/static/js/3.42216d7c.chunk.js",
+    "static/js/3.42216d7c.chunk.js.map": "https://jan997.github.io/portafolio/static/js/3.42216d7c.chunk.js.map",
+    "index.html": "https://jan997.github.io/portafolio/index.html",
+    "static/css/main.752f6d1c.chunk.css.map": "https://jan997.github.io/portafolio/static/css/main.752f6d1c.chunk.css.map",
+    "static/js/2.37b20d8b.chunk.js.LICENSE.txt": "https://jan997.github.io/portafolio/static/js/2.37b20d8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.43d474e8.js",
+    "static/js/runtime-main.05fb917f.js",
     "static/js/2.37b20d8b.chunk.js",
     "static/css/main.752f6d1c.chunk.css",
     "static/js/main.55699c3d.chunk.js"
